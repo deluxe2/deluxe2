@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+Just getting started to fully setup my profile.
 <!--
 **deluxe2/deluxe2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
